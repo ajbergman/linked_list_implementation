@@ -2,7 +2,7 @@
 // class Node
 // The nested node class for objects in our linked list.
 //
-// YOU MAY NOT MODIFY THIS CLASS!
+
 
 #ifndef NODE_H
 #define NODE_H

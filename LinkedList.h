@@ -1,7 +1,7 @@
 /**
  * A doubly-linked list.
  * Stub written by James Daly, 5 Sept 2014
- * Completed by [YOUR NAME]
+ * Completed by Alex Bergman
  */
  
 #ifndef LINKED_LIST_H
